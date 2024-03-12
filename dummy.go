@@ -20,7 +20,4 @@ import (
 	_ "github.com/digitalbitbox/usb/hidapi/libusb"
 	_ "github.com/digitalbitbox/usb/hidapi/mac"
 	_ "github.com/digitalbitbox/usb/hidapi/windows"
-	_ "github.com/digitalbitbox/usb/libusb"
-	_ "github.com/digitalbitbox/usb/libusb/libusb"
-	_ "github.com/digitalbitbox/usb/libusb/libusb/os"
 )
